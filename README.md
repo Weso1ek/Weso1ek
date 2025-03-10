@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
 <!--
 **Weso1ek/Weso1ek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
