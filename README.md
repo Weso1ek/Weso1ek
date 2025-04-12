@@ -22,6 +22,9 @@ I'm a backend developer who loves writing clean, efficient Go and PHP code and b
 - Email: [sebastian.t.wesolowski@gmail.com](mailto:sebastian.t.wesolowski@gmail.com)
 
 ## :fire_engine: Passion
+
+- Other than building applications I love to build models: [instagram.com/geek_or_hella_geek](https://instagram.com/geek_or_hella_geek)
+
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
