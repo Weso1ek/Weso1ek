@@ -1,6 +1,6 @@
 # Hi there, I'm Sebastian — a passionate PHP and Golang Developer! 👋
 
-I'm a backend developer who loves writing clean, efficient Go and PHP code and building scalable APIs, microservices, and tools that make a difference.
+I'm a backend developer who loves writing clean, efficient Go and PHP code and building scalable APIs, microservices, and tools that make a difference. I am not afraid of front-end technologies.
 
 ## 💻 Tech Stack
 
