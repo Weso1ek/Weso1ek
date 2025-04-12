@@ -4,9 +4,14 @@ I'm a backend developer who loves writing clean, efficient Go and PHP code and b
 
 ## 💻 Tech Stack
 
-- **Languages**: PHP, JavaScript, HTML, CSS, SQL
-- **Frameworks**: Laravel, Symfony, Lumen
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **Tools & Platforms**: Docker, Git, Composer, PHPUnit
+- **Languages**: PHP, Golang, JavaScript, HTML, CSS, SQL
+- **Frameworks**: Laravel, Symfony,Gin, Gorilla Mux 
+- **Databases**: MySQL, PostgreSQL, SQLite, MongoDb, Druid, Redis
+- **Tools & Platforms**: Docker, Kubernetes, Git, Composer, PHPUnit, 
 - **Frontend**: Vue.js, Bootstrap, Nuxt.js
-- **Others**: REST APIs, OAuth, MVC Architecture
+- **Others**: REST APIs, OAuth, MVC Architecture, Linux, Grafana, Prometheus 
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weso1ek&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weso1ek&layout=compact&theme=tokyonight)
