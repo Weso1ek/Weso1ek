@@ -15,7 +15,7 @@ I'm a backend developer who loves writing clean, efficient Go and PHP code and b
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weso1ek&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weso1ek&layout=compact&theme=tokyonight)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Weso1ek)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Weso1ek)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect
 
