@@ -16,8 +16,11 @@ I'm a backend developer who loves writing clean, efficient Go and PHP code and b
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weso1ek&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weso1ek&layout=compact&theme=tokyonight)
 
----
+## 📫 Let's Connect
 
-*"Don't communicate by sharing memory, share memory by communicating." – Effective Go*
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Email: [sebastian.t.wesolowski@gmail.com](mailto:sebastian.t.wesolowski@gmail.com)
+
+---
 
 Thanks for stopping by!
