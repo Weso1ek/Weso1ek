@@ -20,6 +20,7 @@ I'm a backend developer who loves writing clean, efficient Go and PHP code and b
 
 - LinkedIn: [linkedin.com/in/sebastianw1](https://linkedin.com/in/sebastianw1)
 - Email: [sebastian.t.wesolowski@gmail.com](mailto:sebastian.t.wesolowski@gmail.com)
+- BootDev: [boot.dev/u/geekorhellageek](https://www.boot.dev/u/geekorhellageek)
 
 ## :fire_engine: Passion
 
