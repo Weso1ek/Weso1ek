@@ -24,7 +24,7 @@ I'm a backend developer who loves writing clean, efficient Go and PHP code and b
 
 ## :fire_engine: Passion
 
-- Other than building applications I love to build models: [instagram.com/geek_or_hella_geek](https://instagram.com/geek_or_hella_geek)
+- Other than building applications I love to build model kits: [instagram.com/geek_or_hella_geek](https://instagram.com/geek_or_hella_geek)
 
 ---
 
